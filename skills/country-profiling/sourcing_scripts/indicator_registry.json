@@ -1,0 +1,78 @@
+{
+  "version": "0.1",
+  "description": "Controlled baseline indicators for Country Profiling deterministic retrieval. Keep this list small. Values support context only and do not prove profile completeness.",
+  "indicators": [
+    {
+      "source": "World Bank",
+      "indicator_code": "SP.POP.TOTL",
+      "label": "Population, total",
+      "unit": "people",
+      "profile_section": "Country context snapshot",
+      "notes": "Verified World Bank indicator code."
+    },
+    {
+      "source": "World Bank",
+      "indicator_code": "SP.DYN.LE00.IN",
+      "label": "Life expectancy at birth, total",
+      "unit": "years",
+      "profile_section": "Population health overview",
+      "notes": "Verified World Bank indicator code."
+    },
+    {
+      "source": "World Bank",
+      "indicator_code": "SH.XPD.CHEX.PC.CD",
+      "label": "Current health expenditure per capita",
+      "unit": "current US$",
+      "profile_section": "Health financing and affordability",
+      "notes": "Verified World Bank indicator code."
+    },
+    {
+      "source": "World Bank",
+      "indicator_code": "SH.XPD.OOPC.CH.ZS",
+      "label": "Out-of-pocket expenditure as percentage of current health expenditure",
+      "unit": "percent",
+      "profile_section": "Health financing and affordability",
+      "notes": "Verified World Bank indicator code."
+    },
+    {
+      "source": "World Bank",
+      "indicator_code": "SH.MED.PHYS.ZS",
+      "label": "Physicians per 1,000 people",
+      "unit": "per 1,000 people",
+      "profile_section": "Health workforce, infrastructure, and supply availability",
+      "notes": "Verified World Bank indicator code."
+    },
+    {
+      "source": "World Bank",
+      "indicator_code": "SH.MED.BEDS.ZS",
+      "label": "Hospital beds per 1,000 people",
+      "unit": "per 1,000 people",
+      "profile_section": "Health workforce, infrastructure, and supply availability",
+      "notes": "Verified World Bank indicator code."
+    },
+    {
+      "source": "World Bank",
+      "indicator_code": "SH.STA.BASS.ZS",
+      "label": "People using at least basic sanitation services",
+      "unit": "percent of population",
+      "profile_section": "Sanitary conditions and environmental health",
+      "notes": "Verified World Bank indicator code."
+    },
+    {
+      "source": "World Bank",
+      "indicator_code": "SH.H2O.BASW.ZS",
+      "label": "People using at least basic drinking water services",
+      "unit": "percent of population",
+      "profile_section": "Sanitary conditions and environmental health",
+      "notes": "Verified World Bank indicator code."
+    },
+    {
+      "source": "World Bank",
+      "indicator_code": "SH.IMM.MEAS",
+      "label": "Immunization, measles",
+      "unit": "percent of children ages 12-23 months",
+      "profile_section": "Healthcare access and coverage",
+      "notes": "Verified World Bank indicator code. Use as broad baseline only; national immunization coverage review still requires Ministry/ISS source review."
+    }
+  ]
+}
