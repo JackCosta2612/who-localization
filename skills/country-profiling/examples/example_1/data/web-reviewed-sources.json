@@ -1,0 +1,115 @@
+[
+  {
+    "date": "Latest available",
+    "discovered_links": [
+      {
+        "text": "Italy: health system review 2022",
+        "url": "https://iris.who.int/server/api/core/bitstreams/07cc8a18-5dad-4260-b2a8-a3042d29bb6f/content"
+      },
+      {
+        "text": "Italy: health system summary 2024",
+        "url": "https://iris.who.int/server/api/core/bitstreams/a19431eb-4ea1-4de6-b271-79f5fc08d5e0/content"
+      },
+      {
+        "text": "Italy: Country Health Profile 2025",
+        "url": "https://eurohealthobservatory.who.int/docs/librariesprovider3/country-health-profiles/chp2025pdf/soheu-2025-italy-final-web.pdf?sfvrsn=ae89969b_1&download=true"
+      }
+    ],
+    "local_file_path": "",
+    "page_title": "Italy health system information",
+    "parse_error": "",
+    "parse_status": "html_extracted",
+    "publisher": "European Observatory on Health Systems and Policies",
+    "retrieval_date": "2026-05-16T15:07:59+00:00",
+    "review_status": "reviewed",
+    "sha256": "edcf9a68c980a0d319cee0c93727b7ffd0ba7d90b9094e0d442a027ad574763a",
+    "source_type": "Web-reviewed institutional country page",
+    "status": "reviewed_html",
+    "text_summary": "Country overview Italy\u2019s National Health Service (Servizio Sanitario Nazionale; SSN) provides universal coverage for all citizens and residents. Since October 2013 EU citizens have been able to obtain free (cross border) health care, while temporary visitors from outside the EU must pay the treatment costs for any care received. Show More The SSN is regionally based, with the central government, 19 regions and two autonomous provinces sharing responsibility. The central government defines \"Essential Levels of Care (LEAs)\", the national benefits package guaranteed to all citizens and registered foreign residents, and provides the resources to deliver them. Regions oversee the organization, planning and delivery of health services. LEAs include hospital care, pharmaceuticals, outpatient health services, and rehabilitation and community health services. Over-the-counter pharmaceutical products are not covered and dental care coverage is very limited. The system is funded by national and regional taxes, with national resources matching the regions\u2019 to ensure equal, and age-adjusted, per-capita funding. Access is largely free at point of use and public (e.g. district and regional hospitals) and accredited private providers deliver services. Great emphasis is placed on primary care; individuals are required to register with a GP/paediatrician (up to age 14), who are incentivized to serve as gatekeepers and care coordinators, referring only as appropriate. Despite a strong commitment to equity in health care provision across regions, regional differences exist in population health status, access and quality of services. Northern and central regions generally have higher capacity and more advanced technology with care being perceived to be better quality, leading patients to travel to northern and central regions for services. HSPM Health Systems and Policy Monitor Visit the Monitor PACE Progress Addressing Cancer in Europe Visit the Page Additional country links WHO countr",
+    "title": "EuroHealthObservatory Italy country page",
+    "url": "https://eurohealthobservatory.who.int/countries/italy"
+  },
+  {
+    "date": "Latest available",
+    "local_file_path": "",
+    "parse_error": "",
+    "parse_status": "parsed",
+    "publisher": "European Observatory on Health Systems and Policies",
+    "retrieval_date": "2026-05-16T15:07:59+00:00",
+    "review_status": "reviewed",
+    "sha256": "4b62cd195e2fb05a7115de6d88a14395905f7fbaee6c10cf68f993b2e97284b8",
+    "source_page_url": "https://eurohealthobservatory.who.int/countries/italy",
+    "source_type": "Official or institutional PDF",
+    "status": "parsed",
+    "text_summary": "Vol. 24 No. 4 2022Health Systems in Transition: Italy Vol. 24 No. 4 2022 Health Systems in Transition Health system review Italy Antonio Giulio de Belvis Michela Meregaglia Alisha Morsella Andrea Adduci Alessio Perilli Fidelia Cascini Alessandro Solipaca Giovanni Fattore Walter Ricciardi Anna Maresso Giada Scarpetti Print ISSN 1817-6119 Web ISSN 1817-6127 The Observatory is a partnership, hosted by WHO/Europe, which includes other international organizations (the European Commission); national and regional governments (Austria, Belgium, Finland, Ireland, Norway, Slovenia, Spain, Sweden, Switzerland, the United Kingdom and the Veneto Region of Italy (with Agenas)); other health system organizations (the French National Union of Health Insurance Funds (UNCAM), the Health Foundation); and academia (the London School of Economics and Political Science (LSE) and the London School of Hygiene & Tropical Medicine (LSHTM)). The Observatory has a secretariat in Brussels and it has hubs in London (at LSE and LSHTM) and at the Berlin University of Technology. HiTs are in-depth profiles of health systems and policies, produced using a standardized approach that allows comparison across countries. They provide facts, figures and analysis and highlight reform initiatives in progress. 61651 Itraly HiT.pdf 1 27/10/2022 16:52 Giada Scarpetti (Editor) and Anna Maresso (Editor and Series Co-ordinator) were responsible for this HiT Editorial Board Series editors Reinhard Busse, Berlin University of Technology, Germany Josep Figueras, European Observatory on Health Systems and Policies Martin McKee, London School of Hygiene & Tropical Medicine, United Kingdom Elias Mossialos, London School of Economics and Political Science, United Kingdom Ewout van Ginneken, European Observatory on Health Systems and Policies Series coordinator Anna Maresso, European Observatory on Health Systems and Policies Editorial team Jonathan Cylus, European Observatory on Health Systems and Policies Cristina Her",
+    "title": "Italy: health system review 2022",
+    "url": "https://iris.who.int/server/api/core/bitstreams/07cc8a18-5dad-4260-b2a8-a3042d29bb6f/content",
+    "artifact_note": "PDF binary omitted from the deployable skill package; direct URL, checksum, and extracted text summary are retained as reference artifacts."
+  },
+  {
+    "date": "Latest available",
+    "local_file_path": "",
+    "parse_error": "",
+    "parse_status": "parsed",
+    "publisher": "European Observatory on Health Systems and Policies",
+    "retrieval_date": "2026-05-16T15:07:59+00:00",
+    "review_status": "reviewed",
+    "sha256": "d3db63828b337782617607c88e536484deeb302993b52a7823abaa78b72228db",
+    "source_page_url": "https://eurohealthobservatory.who.int/countries/italy",
+    "source_type": "Official or institutional PDF",
+    "status": "parsed",
+    "text_summary": "Health system summary 2024 Italy Authors Antonio Giulio De Belvis, Michela Meregaglia, Alisha Morsella, Andrea Adduci, Alessio Perilli, Fidelia Cascini, Alessandro Solipaca, Giovanni Fattore, Walter Ricciardi, Melissa D\u2019Agostino, Anna Maresso, Giada Scarpetti Anna Maresso (Series Editor) This Health System Summary is based on Italy: Health System Review (HiT) published in 2022 but is significantly updated, including data, policy developments and relevant reforms as highlighted by the Health Systems and Policies Monitor (HSPM) ( www.hspm.org). For this edition of the Health System Summary, key data have been updated to those available in September 2024 unless otherwise stated. Health System Summaries use a concise format to communicate central features of country health systems and analyse available evidence on the organization, financing and delivery of health care. They also provide insights into key reforms and the varied challenges testing the performance of the health system. Main sources : De Belvis AG, Meregaglia M, Morsella A, Adduci A, Perilli A, Cascini F, Solipaca A, Fattore G, Ricciardi W, Maresso A, Scarpetti G. Italy: Health System Review. Health Systems in Transition , 2022; 23(4): pp. i\u2013203. Health Systems and Policy Monitor (HSPM) \u2013 Italy (2024). European Observatory on Health Systems and Policies, https:// eurohealthobservatory.who.int/monitors/health-systems-monitor Please cite this publication as: De Belvis AG, Meregaglia M, Morsella A, Adduci A, Perilli A, Cascini F, Solipaca A, Fattore G, Ricciardi W, D\u2019Agostino M, Maresso A, Scarpetti G. Italy: Health System Summary, 2024 . Copenhagen: European Observatory on Health Systems and Policies, WHO Regional Office for Europe; 2024. Licence: CC BY-NC-SA 3.0 IGO. ISSN 2958-9193 (online) ISBN 9789289059947 (PDF) Contents How is the health system organized? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2 How much is spent on health services? . . . . . . . . . . . . . . . . . . . .",
+    "title": "Italy: health system summary 2024",
+    "url": "https://iris.who.int/server/api/core/bitstreams/a19431eb-4ea1-4de6-b271-79f5fc08d5e0/content",
+    "artifact_note": "PDF binary omitted from the deployable skill package; direct URL, checksum, and extracted text summary are retained as reference artifacts."
+  },
+  {
+    "date": "Latest available",
+    "local_file_path": "",
+    "parse_error": "",
+    "parse_status": "parsed",
+    "publisher": "European Observatory on Health Systems and Policies",
+    "retrieval_date": "2026-05-16T15:07:59+00:00",
+    "review_status": "reviewed",
+    "sha256": "f39ba549dab15a35edb766ecfa81bd31025bb2adad7a6c25f072b0449fcda867",
+    "source_page_url": "https://eurohealthobservatory.who.int/countries/italy",
+    "source_type": "Official or institutional PDF",
+    "status": "parsed",
+    "text_summary": "State of Health in the EU I ta ly Country Health Profile 2025 The Country Health Profiles series The State of Health in the EU\u2019 s Country Health Profiles provide a concise and policy- relevant overview of health and health systems in the EU/European Economic Area. They emphasise the particular characteristics and challenges in each country against a backdrop of cross- country comparisons. The aim is to support policy makers and influencers with a means for mutual learning and knowledge transfer. The 2025 edition of the Country Health Profiles includes a special section dedicated to pharmaceutical policy. The profiles are the joint work of the OECD and the European Observatory on Health Systems and Policies, in co- operation with the European Commission. The team is grateful for the valuable comments and suggestions provided by the Observatory\u2019s Health Systems and Policy Monitor network, the OECD Health Committee and the EU Expert Group on Health Systems Performance Assessment (HSPA). Demographic and socioeconomic context in I T aly , 2024 Demographic factors Italy EU Population size 58 971 230 4 4 9 3 0 6 1 8 4 Share of population over age 65 24 % 22 % Fertility rate 2023 1 1.2 1.4 Socioeconomic factors GDP per capita (EUR PPP) 2 38 863 39 675 At risk of poverty or social exclusion rate 3 23.1 % 20.9 % 1. Mean number of children born per woman aged 10- 54. 2. Purchasing power parity (PPP) is defined as the rate of currency conversion that equalises the purchasing power of different currencies by eliminating the differences in price levels between countries. 3. At risk of poverty or social exclusion (AROPE) is the percentage of people who are either at risk of poverty, severely materially and socially deprived, or living in a household with very low work intensity. Source: Eurostat Database. Disclaimers: For the OECD, this work is published under the responsibility of the Secretary- General of the OECD. The opinions expressed and arguments employed herein do not nece",
+    "title": "Italy: Country Health Profile 2025",
+    "url": "https://eurohealthobservatory.who.int/docs/librariesprovider3/country-health-profiles/chp2025pdf/soheu-2025-italy-final-web.pdf?sfvrsn=ae89969b_1&download=true",
+    "artifact_note": "PDF binary omitted from the deployable skill package; direct URL, checksum, and extracted text summary are retained as reference artifacts."
+  },
+  {
+    "date": "2023",
+    "discovered_links": [],
+    "local_file_path": "",
+    "page_title": "*** ATTO COMPLETO ***",
+    "parse_error": "",
+    "parse_status": "html_extracted",
+    "publisher": "Gazzetta Ufficiale / Italian Ministry of Health",
+    "retrieval_date": "2026-05-16T15:07:59+00:00",
+    "review_status": "reviewed",
+    "sha256": "a22147f9c07524193bb566b706bf449d0378507555c980f4890aef48b2910a02",
+    "source_type": "Official full-text HTML",
+    "status": "reviewed_html",
+    "text_summary": "vaccinale (PNPV) 2023-2025\u00bb e sul documento recante \u00abCalendario nazionale vaccinale\u00bb. (Rep. atti n. 193/CSR del 2 agosto 2023). (23A04685) (GU n.194 del 21-8-2023 ) Seleziona tutti Deseleziona tutti E' possibile selezionare uno o pi\u00fa elementi dell'atto. Non \u00e9 consentito selezionare pi\u00fa di 100 elementi. In tal caso il sistema proporr\u00e1 l' intero documento nel formato richiesto. Includi Note Articoli 1 Allegati Allegato A Allegato A Allegato B Allegato B Testo originario - data di pubblicazione Giorno : 21 Mese : 8 Anno : 2023",
+    "title": "National Vaccine Prevention Plan 2023-2025 official act",
+    "url": "https://www.gazzettaufficiale.it/atto/vediMenuHTML?atto.dataPubblicazioneGazzetta=2023-08-21&atto.codiceRedazionale=23A04685&tipoSerie=serie_generale&tipoVigenza=originario"
+  },
+  {
+    "date": "Bundled local source",
+    "local_file_path": "assets/who-immunizations-dak.pdf",
+    "parse_error": "",
+    "parse_status": "parsed",
+    "publisher": "World Health Organization",
+    "retrieval_date": "2026-05-16T15:07:59+00:00",
+    "review_status": "reviewed",
+    "sha256": "6b0f603e2a792bb4e81014b4e3302d450c4b5be8c72ac4106723610ec7db0303",
+    "source_type": "WHO SMART / DAK artifact",
+    "status": "parsed",
+    "text_summary": "SMART GUIDELINES COLLECTION Digital adaptation kit for immunizations Operational requirements for implementing WHO recommendations in digital systems Digital adaptation kit for immunizations Operational requirements for implementing WHO recommendations in digital systems Digital adaptation kit for immunizations: operational requirements for implementing WHO recommendations in digital systems (SMART Guidelines collection) ISBN 978-92-4-009945-6 (electronic version) ISBN 978-92-4-009946-3 (print version) \u00a9 World Health Organization 2024 Some rights reserved. This work is available under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence (CC BY-NC-SA 3.0 IGO; https://creativecommons.org/licenses/by/3.0/igo/). Under the terms of this licence, you may copy, redistribute and adapt the work for non-commercial purposes, provided the work is appropriately cited, as indicated below. In any use of this work, there should be no suggestion that WHO endorses any specific organization, products or services. The use of the WHO logo is not permitted. If you adapt the work, then you must license your work under the same or equivalent Creative Commons licence. If you create a translation of this work, you should add the following disclaimer along with the suggested citation: \u201cThis translation was not created by the World Health Organization (WHO). WHO is not responsible for the content or accuracy of this translation. The original English edition shall be the binding and authentic edition\u201d . Any mediation relating to disputes arising under the licence shall be conducted in accordance with the mediation rules of the World Intellectual Property Organization (http://www.wipo.int/amc/en/mediation/rules/). Suggested citation: Digital adaptation kit for immunizations: operational requirements for implementing WHO recommendations in digital systems. Geneva: World Health Organization; 2024 (SMART Guidelines collection). Licence: CC BY-NC-SA 3.0 IGO. Cataloguing-in-Publi",
+    "title": "WHO SMART Guidelines Digital Adaptation Kit for Immunization",
+    "url": "assets/who-immunizations-dak.pdf"
+  }
+]
